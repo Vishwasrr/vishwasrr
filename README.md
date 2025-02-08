@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwas. R</h1>
-<h3 align="center">Adept Automation Engineer with 2.3+ years of experience in automation scripting. I enjoy automating systems using python and related tools to minimize human intervention.</h3>
+<h3 align="center">Adept Automation Engineer with 3+ years of experience in automation scripting. I enjoy automating systems using python and related tools to minimize human intervention.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwasrr&label=Profile%20views&color=0e75b6&style=flat" alt="vishwasrr" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Profile project](https://github.com/Vishwasrr/profile-website)
 
-- 🌱 I’m currently learning **React, Django and some DevOps tools**
+- 🌱 I’m currently learning **Java-Selenium in Cucumber BDD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishwasrr](https://github.com/vishwasrr)
 
-- 💬 Ask me about **Python and JavaScript**
+- 💬 Ask me about **Python, JavaScript and Java**
 
 - 📫 How to reach me **vishwasrvibhu@gmail.com**
 
